@@ -10,16 +10,16 @@
         <div class="checkout container">
 
             <header>
-                <h1>Hola Cleinte, <br>Vamos a realizar un pago</h1>
+                <h1>Hola Cliente, <br>Realizar un Pago</h1>
                 <p>
-                    realiza el pago con Braintree usando PayPal or a tarjeta
+                    Realiza el pago con TZXPAY usando PayPal o una Tarjeta
                 </p>
             </header>
 
             <form method="post" id="payment-form" action="/checkout.php">
                 <section>
                     <label for="amount">
-                        <span class="input-label">Amount</span>
+                        <span class="input-label">Monto</span>
                         <div class="input-wrapper amount-wrapper">
                             <input id="amount" name="amount" type="tel" min="1" placeholder="Monto" value="100">
                         </div>
