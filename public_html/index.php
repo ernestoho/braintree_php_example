@@ -10,9 +10,9 @@
         <div class="checkout container">
 
             <header>
-                <h1>Hi, <br>Let's test a transaction</h1>
+                <h1>Hola Cleinte, <br>Vamos a realizar un pago</h1>
                 <p>
-                    Make a test payment with Braintree using PayPal or a card
+                    realiza el pago con Braintree usando PayPal or a tarjeta
                 </p>
             </header>
 
@@ -21,7 +21,7 @@
                     <label for="amount">
                         <span class="input-label">Amount</span>
                         <div class="input-wrapper amount-wrapper">
-                            <input id="amount" name="amount" type="tel" min="1" placeholder="Amount" value="10">
+                            <input id="amount" name="amount" type="tel" min="1" placeholder="Monto" value="100">
                         </div>
                     </label>
 
@@ -31,7 +31,7 @@
                 </section>
 
                 <input id="nonce" name="payment_method_nonce" type="hidden" />
-                <button class="button" type="submit"><span>Test Transaction</span></button>
+                <button class="button" type="submit"><span>Reliza el Pago </span></button>
             </form>
         </div>
     </div>
