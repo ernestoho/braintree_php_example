@@ -1,5 +1,3 @@
-<?php require_once("../includes/braintree_init.php"); ?>
-
 <html>
 <head>
   <meta charset="utf-8">
