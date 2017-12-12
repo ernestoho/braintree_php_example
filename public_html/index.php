@@ -10,7 +10,7 @@
         <div class="checkout container">
 
             <header>
-                <h1>TZX<br>PAY</h1>
+                <h1>PAGOS de <br>CLIENTES</h1>
                 <p>
                     Paga con TZXPAY usando una Tarjeta o PayPal 
                 </p>
