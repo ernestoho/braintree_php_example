@@ -10,7 +10,7 @@
         <div class="checkout container">
 
             <header>
-                <h1>PAGOS de <br>CLIENTES</h1>
+                <h1>PAGOS DE <br>CLIENTES</h1>
                 <p>
                     Paga con TZXPAY usando una Tarjeta o PayPal 
                 </p>
@@ -31,7 +31,7 @@
                 </section>
 
                 <input id="nonce" name="payment_method_nonce" type="hidden" />
-                <button class="button" type="submit"><span>Reliza el Pago </span></button>
+                <button class="button" type="submit"><span>Realizar Pago </span></button>
             </form>
         </div>
     </div>
@@ -68,4 +68,4 @@
     <script src="javascript/demo.js"></script>
 </body>
 </html>
-© 2017 TZXPAY, Srl.
+© 2017 TZXPAY, Srl. by AGISTER.IO
