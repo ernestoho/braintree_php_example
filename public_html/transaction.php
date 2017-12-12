@@ -19,13 +19,13 @@
         ];
 
         if (in_array($transaction->status, $transactionSuccessStatuses)) {
-            $header = "Sweet Success!";
+            $header = "Realizado con éxito!";
             $icon = "success";
-            $message = "Your test transaction has been successfully processed. See the Braintree API response and try again.";
+            $message = "Tu pago ha sido procesado con exito.";
         } else {
             $header = "Transaction Failed";
             $icon = "fail";
-            $message = "Your test transaction has a status of " . $transaction->status . ". See the Braintree API response and try again.";
+            $message = "Tu transacion tiene un estatus de" . $transaction->status . ". Realiza otro pago.";
         }
     }
 ?>
@@ -43,7 +43,7 @@
             </section>
             <section>
                 <a class="button primary back" href="/index.php">
-                    <span>Test Another Transaction</span>
+                    <span>Realiza otro pago</span>
                 </a>
             </section>
         </div>
