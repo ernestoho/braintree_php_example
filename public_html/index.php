@@ -10,9 +10,9 @@
         <div class="checkout container">
 
             <header>
-                <h1>Hola Cliente, <br>Realizar un Pago</h1>
+                <h1>TZX<br>PAY</h1>
                 <p>
-                    Realiza el pago con TZXPAY usando PayPal o una Tarjeta
+                    Paga con TZXPAY usando una Tarjeta o PayPal 
                 </p>
             </header>
 
@@ -68,4 +68,4 @@
     <script src="javascript/demo.js"></script>
 </body>
 </html>
-© 2017 GitHub, Inc.
+© 2017 TZXPAY, Srl.
