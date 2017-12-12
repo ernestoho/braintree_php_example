@@ -68,4 +68,4 @@
     <script src="javascript/demo.js"></script>
 </body>
 </html>
-© 2017 TZXPAY, Srl. by AGISTER.IO
+© 2017 TZXPAY, Srl. by Ernesto Ho - AGIST.IO
