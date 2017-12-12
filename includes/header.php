@@ -7,7 +7,7 @@
                 </div>
 
                 <div class="fit">
-                    <a class="braintree" href="https://developers.braintreepayments.com/guides/drop-in" target="_blank">TZXPAY-Braintree</a>
+                    <a class="braintree" href="https://developers.braintreepayments.com/guides/drop-in" target="_blank">Agist-Braintree</a>
                 </div>
             </div>
         </div>
