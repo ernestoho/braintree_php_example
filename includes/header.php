@@ -3,7 +3,7 @@
         <div class="content slim">
             <div class="set">
                 <div class="fill">
-                    <a class="pseudoshop" href="/">PSEUDO<strong>SHOP</strong></a>
+                    <a class="tzxpay" href="/">TZX<strong>PAY</strong></a>
                 </div>
 
                 <div class="fit">
