@@ -1,0 +1,31 @@
+<svg width="110" height="14" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+ <title>TZXPAY</title>
+ <desc>Created with Sketch.</desc>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="BT-PP-Checkout-Demo">
+   <g font-size="16" fill="#3E3C41" font-family="Open Sans" font-weight="normal" id="1-–-Pick">
+    <g id="PS-–-Brand">
+     <text x="-1" y="-4" id="TZXPAY">
+      <tspan id="svg_1" y="57" x="0">PS</tspan>
+      <tspan id="svg_2" y="57" x="803.614063">E</tspan>
+      <tspan id="svg_3" y="57" x="813.1525">U</tspan>
+      <tspan id="svg_4" y="57" x="824.960938">D</tspan>
+      <tspan id="svg_5" y="57" x="836.965">O</tspan>
+      <tspan id="svg_6" font-weight="bold" y="57" x="850.185938">S</tspan>
+      <tspan id="svg_7" font-weight="bold" y="57" x="859.598438">H</tspan>
+      <tspan id="svg_8" font-weight="bold" y="57" x="872.080625">O</tspan>
+      <tspan id="svg_9" font-weight="bold" y="57" x="885.165">P</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+  <text stroke="#000" transform="matrix(1.077115916595219,0,0,0.5185185074806213,1.2588549229568746,6.981481641530991) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_10" y="8.5" x="3.5" stroke-width="0" fill="#1d24d6">TZXPAY</text>
+ </g>
+</svg>
